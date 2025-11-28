@@ -1,0 +1,23 @@
+{
+  "name": "ConnectVid - Video Conferencing",
+  "short_name": "ConnectVid",
+  "description": "Professional video conferencing platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgdmlld0JveD0iMCAwIDE5MiAxOTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIxOTIiIGhlaWdodD0iMTkyIiByeD0iMjQiIGZpbGw9IiMyNTYzZWIiLz4KPHBhdGggZD0iTTk2IDQ4QzExMi44IDQ4IDEyOCA2My4yIDEyOCA4MFYxMTJDMTI4IDEyOC44IDExMi44IDE0NCA5NiAxNDRDNzkuMiAxNDQgNjQgMTI4LjggNjQgMTEyVjgwQzY0IDYzLjIgNzkuMiA0OCA5NiA0OFoiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0xNDQgMTI4SDE2MEMxNjggMTI4IDE3NiAxMzYgMTc2IDE0NFYxNjBDMTc2IDE2OCAxNjggMTc2IDE2MCAxNzZIMzJDMjQgMTc2IDE2IDE2OCAxNiAxNjBWMTQ0QzE2IDEzNiAyNCAxMjggMzIgMTI4SDQ4IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjgiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8L3N2Zz4K",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiByeD0iNjQiIGZpbGw9IiMyNTYzZWIiLz4KPHBhdGggZD0iTTI1NiAxMjhDMzAwLjggMTI4IDMzNiAxNjMuMiAzMzYgMjA4VjMwNEMzMzYgMzQ4LjggMzAwLjggMzg0IDI1NiAzODRDMjExLjIgMzg0IDE3NiAzNDguOCAxNzYgMzA0VjIwOEMxNzYgMTYzLjIgMjExLjIgMTI4IDI1NiAxMjhaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNMzg0IDM0NEg0MjhDNTA0IDM0NCA1NjggMzc2IDU2OCA0MTZWNDI4QzU2OCA1MDQgNTA0IDU2OCA0MjggNTY4SDg0QzggNTY4IDAgNTA0IDAgNDI4VjQxNkMwIDM3NiA4IDM0NCA4NCAzNDRIMTI4IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjE2IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc+Cg==",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["business", "communication", "productivity"]
+}
